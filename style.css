@@ -105,10 +105,18 @@ nav {
     background: linear-gradient(20deg, rgba(0, 0, 0, 1) 0%, rgba(124, 51, 51, 0.5447442608948654) 50%, rgba(252, 176, 69, 1) 100%);
 }
 
-h4 i {
-    color: rgb(242, 186, 56);
-    margin-left: 93px;
+.img2{
+   position: absolute;
+   margin-top: -105px;
+    margin-left: 150px;
+color: white;
 }
+.shopping-bag{
+    width: 20px;
+  
+  
+}
+
 
 img {
     height: 200px;
@@ -136,6 +144,8 @@ h4 {
 
 .box h4 {
     color: rgb(243, 207, 6);
+    margin-top: 10px;
+    margin-right: 80px;
 }
 
 .bb {
